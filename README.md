@@ -8,7 +8,5 @@ code refactoring project.
 Website preview: https://hugo180.github.io/code-refactor-deux/ 
 
 
- ![Horiseon](/Users/hugorubio/Desktop/code/home-work/week1/code-refactor-deux/01-html-css-git-homework-demo.png) 
-
  contribution
  Hugo Rubio
